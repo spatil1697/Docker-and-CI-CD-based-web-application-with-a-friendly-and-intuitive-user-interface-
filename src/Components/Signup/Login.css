@@ -1,0 +1,58 @@
+
+.font{
+	font-family:Noto Sans Tai Tham;
+}
+
+	.Bluredrec {
+	position: absolute;
+	top: 50px;
+	width: 989px;
+	height: 650px;
+	backdrop-filter: blur(7px);
+	background: linear-gradient(251.16deg, rgba(20, 20, 20, 0.20) 0%, rgba(20, 20, 20, 0.20) 62.81%, rgba(20, 20, 20, 0.20) 100%);
+	border-radius: 10px;
+}
+
+	@media (min-width:320px) {
+	.Bluredrec {
+	top: 20px;
+	width: 330px;
+	height: 640px;
+	}
+  }
+
+
+	@media (min-width:480px){	
+   .Bluredrec { 
+	top: 20px;
+	width: 330px;
+	height: 640px;
+	}
+  }
+
+  	@media (min-width:600px){	
+	.Bluredrec { 
+	  top: 80px;
+	  width: 700px;
+	  height: 640px;
+	  }
+	}
+
+	@media (min-width:801px) {
+		.Bluredrec { 
+		top: 80px;
+		width: 700px;
+		height: 640px;
+		}
+	  }
+	
+	@media (min-width:1025px){
+		.Bluredrec { 
+			top: 50px;
+			width: 989px;
+			height: 650px;
+		}
+	  }
+
+
+

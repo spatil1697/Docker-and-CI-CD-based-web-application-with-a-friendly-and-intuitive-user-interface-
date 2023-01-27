@@ -1,0 +1,19 @@
+
+.fontForLogo{
+    font-family:  Joti One;
+}
+
+
+.fontForText{
+    font-family: Noto Sans Tai Tham;
+}
+
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size:25px;
+    font-weight:semi-bold; 
+}
